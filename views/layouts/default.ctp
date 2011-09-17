@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8" />
 	<title><?php echo $title_for_layout ?></title>
-	<link rel="stylesheet" href="https://github.com/twitter/bootstrap/blob/master/bootstrap.min.css"/>
+	<link rel="stylesheet" href="http://twitter.github.com/bootstrap/1.3.0/bootstrap.min.css" />
 </head>
 <body>
 	<div class="container-fluid">
