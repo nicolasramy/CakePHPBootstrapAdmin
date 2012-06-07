@@ -2,6 +2,7 @@
 
 class BootstrapAdminAppController extends AppController {
 
-}
 
-?>
+
+
+}
