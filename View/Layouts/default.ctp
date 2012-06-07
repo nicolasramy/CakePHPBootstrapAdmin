@@ -41,5 +41,9 @@
 		</div>
 
 
+		<?php echo $this->Html->script(array('jquery.ui.totop')); ?>
+		<?php echo $this->Html->script(array('components', 'events')); ?>
+
+
 	</body>
 </html>
