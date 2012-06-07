@@ -13,8 +13,8 @@ Based on Bootstrap, from Twitter
 CakePHP 2.1.x
 
 ## Installation
-`cd app/Plugin
-git clone git@github.com:nicolasramy/BootstrapAdmin.git`
+`cd app/Plugin`
+`git clone git@github.com:nicolasramy/BootstrapAdmin.git`
 
 ## Configuration
 > Edit app/Config/bootstrap.php
