@@ -29,10 +29,6 @@
 
 	<body id="top">
 
-		<!-- navbar -->
-		<?php echo $this->element('Navbar/default'); ?>
-		<!-- navbar -->
-
 		<div class="container">
 			<?php echo $session->flash(); ?>
 			<?php echo $this->fetch('content'); ?>
