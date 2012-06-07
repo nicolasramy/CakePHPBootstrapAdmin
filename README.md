@@ -13,13 +13,13 @@ Based on Bootstrap, from Twitter
 CakePHP 2.1.x
 
 ## Installation
-cd app/Plugin
-git clone --
+`cd app/Plugin
+git clone git@github.com:nicolasramy/BootstrapAdmin.git`
 
 ## Configuration
-Edit app/Config/bootstrap.php
+> Edit app/Config/bootstrap.php
 Add
-	CakePlugin::load('BootstrapAdmin');
+`CakePlugin::load('BootstrapAdmin');`
 
 
 More informations soon
