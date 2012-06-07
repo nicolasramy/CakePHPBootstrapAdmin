@@ -14,6 +14,7 @@ CakePHP 2.1.x
 
 ## Installation
 `cd app/Plugin`
+
 `git clone git@github.com:nicolasramy/BootstrapAdmin.git`
 
 ## Configuration
