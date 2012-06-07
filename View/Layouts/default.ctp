@@ -29,6 +29,8 @@
 
 	<body id="top">
 
+		<?php echo $this->Navbar->display(); ?>
+
 		<div class="container">
 			<?php echo $this->Session->flash(); ?>
 			<?php echo $this->fetch('content'); ?>
