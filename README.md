@@ -10,7 +10,7 @@ It's customizable, beautifull and fast... You can even use it on production, why
 Based on Bootstrap, from Twitter
 
 ## Requirements
-CakePHP 2.1.x
+CakePHP 2.2.2
 
 ## Installation
 `cd app/Plugin`
