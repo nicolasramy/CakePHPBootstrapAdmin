@@ -19,8 +19,7 @@ CakePHP 2.2.2
 
 ## Configuration
 > Edit app/Config/bootstrap.php
-Add
-`CakePlugin::load('BootstrapAdmin');`
+> and add `CakePlugin::load('BootstrapAdmin');` in this file
 
 
 More informations soon
